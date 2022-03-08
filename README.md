@@ -33,5 +33,5 @@
   <img align="center" alt="Lauz-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Lauz-unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img align="center" alt="Lauz-ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-  <img align="right" alt="Lauz" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/950726525345476628/950726933312835664/lofi_leandro.png">
+  <img align="right" alt="Lauz" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/950726525345476628/950726933312835664/lofi_leandro.png">
 </div>

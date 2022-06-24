@@ -1,7 +1,7 @@
 ### Hello! Welcome to my Github 👋
 #### My name is Leandro Auzier and i'm a web developer
 ##  
-- 🔭 I’m currently working on **apexGo.io**.
+- 🔭 I’m currently looking for a job.
 - 🌱 I’m currently learning **Automation bot and social medias API's**.
 - 🎮 Hobbies: Spend time with **my wife** 💑, **Play** games and **Create** Unity games.
 ##

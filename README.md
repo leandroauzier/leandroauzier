@@ -7,10 +7,9 @@
 ##
 <div align="center">
   <a href="https://github.com/leandroauzier">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandroauzier&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroauzier&layout=compact&langs_count=8&theme=nightowl"/>
+  <img height="180em" src="https://github-readme-stats-tau-orpin.vercel.app/api?username=leandroauzier&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-tau-orpin.vercel.app/api/top-langs/?username=leandroauzier&layout=compact&langs_count=8&theme=nightowl"/>
 </div>
-  
 
   
 ### Contact me:

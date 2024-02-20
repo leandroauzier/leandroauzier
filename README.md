@@ -1,8 +1,8 @@
 ### Hello! Welcome to my Github 👋
 #### My name is Leandro Auzier and i'm a web developer
 ##  
-- 🔭 I’m currently looking for a job.
-- 🌱 I’m currently learning **Automation bot and social medias API's**.
+- 🔭 I’m currently working on TCE - (Court of Auditors of the State of Amapá)
+- 🌱 I’m currently learning **NextJS and React**.
 - 🎮 Hobbies: Spend time with **my wife** 💑, **Play** games and **Create** Unity games.
 ##
 <div align="center">

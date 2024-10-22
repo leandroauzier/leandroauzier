@@ -1,9 +1,9 @@
 ### Hello! Welcome to my Github 👋
-#### My name is Leandro Auzier and i'm a web developer
+#### My name is Leandro Auzier and i'm a FullStack Web developer
 ##  
 - 🔭 I’m currently working on TCE - (Court of Auditors of the State of Amapá)
-- 🌱 I’m currently learning **NextJS and React**.
-- 🎮 Hobbies: Spend time with **my wife** 💑, **Play** games and **Create** Unity games.
+- 🌱 I’m currently working with **NodeJS, NextJS and React**.
+- 🎮 Hobbies: Spend time with my **family** 👨‍👩‍👧, **Play** games and **Create** Unity games.
 ##
 <div align="center">
   <a href="https://github.com/leandroauzier">

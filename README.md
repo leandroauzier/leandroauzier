@@ -5,12 +5,13 @@
 - 🌱 I’m currently working with **NodeJS, NextJS and React**.
 - 🎮 Hobbies: Spend time with my **family** 👨‍👩‍👧, **Play** games and **Create** Unity games.
 ##
+<!-- (Dear recruiter, this feature is not working cause of public rate limit API)
 <div align="center">
   <a href="https://github.com/leandroauzier">
   <img height="180em" src="https://github-readme-stats-tau-orpin.vercel.app/api?username=leandroauzier&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-tau-orpin.vercel.app/api/top-langs/?username=leandroauzier&layout=compact&langs_count=8&theme=nightowl"/>
 </div>
-
+-->
   
 ### Contact me:
 <div>
@@ -23,6 +24,10 @@
 ##
 ### Main Skills:
 <div style="display: inline_block"><br>
+  <img align="center" alt="Lauz-ReactJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Lauz-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+  <img align="center" alt="Lauz-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Lauz-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align="center" alt="Lauz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lauz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lauz-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
